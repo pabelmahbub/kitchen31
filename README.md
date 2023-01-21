@@ -22,3 +22,5 @@ To build app:
 ```
 npm run build
 ```
+User can create a food recipe and search favourite dishes from the collection.
+https://user-images.githubusercontent.com/43867380/213872202-acdf7b44-1457-479c-9983-4d06421f9472.png
