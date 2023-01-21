@@ -11,7 +11,7 @@ Open another terminal in root folder to run this app in local using ```json serv
 npm i json-server[if npm installed no need to do]
 npx json-server --watch data/db.json
 ```
-Following package versions are from packeage.json:
+Following package versions are noted from packeage.json:
 ```
 "json-server": "^0.17.1",
 "react": "^18.2.0",
