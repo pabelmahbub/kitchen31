@@ -1,4 +1,4 @@
-#### Live site in this link: https://kitchen31-jp1.netlify.app/
+#### Live site in this link: https://kitchen31-best20foods.netlify.app/
 
 To run in local. Initially:
 ```
@@ -13,6 +13,9 @@ npx json-server --watch data/db.json
 ```
 Following package versions are noted from packeage.json:
 ```
+"name": "kitchen31",
+"version": "0.1.0",
+"firebase": "8.5",
 "json-server": "^0.17.1",
 "react": "^18.2.0",
 "react-dom": "^18.2.0",
