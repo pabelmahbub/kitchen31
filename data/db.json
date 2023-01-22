@@ -1,0 +1,184 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Sushi (Japan)",
+      "ingredients": [
+        "1/4 cups",
+        "1 tsp baking soda",
+        "1 tsp salt",
+        "1 cup unsalted",
+        "cup sugar",
+        "cup brown sugar"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "2",
+      "title": "Rendang, Indonesia",
+      "ingredients": [
+        "1 tsp salt",
+        "1 cup unsalted butter",
+        "3/4 cup sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla",
+        "2 cupschips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "3",
+      "title": "Ramen, Japan",
+      "ingredients": [
+        "1 tsp salt",
+        "1 cup unsalted butter, at room temperature",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "4",
+      "title": "Tom Yam Goong, Thailand",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "5",
+      "title": "Kebab, Turkey",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "6",
+      "title": "Pho, Vietnam",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "7",
+      "title": "Peking duck, China",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "8",
+      "title": " Steak and Kidney Pie, England",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "9",
+      "title": "Apfelstrudel, Austria",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "10",
+      "title": "Pad Thai, Thailanda",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "11",
+      "title": "Pad Thai, Thailanda",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "id": "12",
+      "title": "Lasagna, Italy",
+      "ingredients": [
+        "2 1/4 cups all-purpose flour",
+        "3/4 cup granulated sugar",
+        "3/4 cup brown sugar",
+        "2 large eggs",
+        "2 tsp vanilla extract",
+        "2 cups semisweet chocolate chips"
+      ],
+      "cookingTime": "15 minutes",
+      "method": "In a medium bowl, whisk together the flour, baking soda, and salt. Set aside. 2. In a large mixing bowl, cream the butter, granulated sugar, and brown sugar together until light and fluffy.3. Add the eggs, one at a time, followed by the vanilla extract, and mix until well combined."
+    },
+    {
+      "title": "ss",
+      "ingredients": [
+        "ss",
+        "ww"
+      ],
+      "method": "saq",
+      "cookingTime": "33 minutes",
+      "id": "YGyQY4F"
+    }
+  ]
+}
