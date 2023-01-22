@@ -1,8 +1,10 @@
 .APP {
   min-height: 100%;
+
 }
 .App.dark {
-  background: #666;
+  background: #999;
+  padding-bottom:100px;
 }
 
 

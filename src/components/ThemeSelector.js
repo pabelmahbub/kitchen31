@@ -7,7 +7,7 @@ import { useTheme } from '../hooks/useTheme';
 
 function ThemeSelector() {
     const {changeColor, changeMode, mode} = useTheme();
-    const themeColor = ["red", "darkblue", "green", "blue", "magenta", "darkred", ]
+    const themeColor = ["red", "#5F847C ", "#299898", "#2A363B", "#F67280", "#355C7D", ]
 
 const toggleMode =()=>{
     changeMode(mode === "dark" ? "light" : "dark")

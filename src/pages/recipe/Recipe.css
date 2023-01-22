@@ -5,10 +5,22 @@
     background: #fff;
     padding: 40px;
     box-sizing: border-box;
-    padding-bottom:130px;
 }
 .recipe p{
     padding-bottom: 1.3em;
+}
+.recipe button {
+    display: block;
+    width: 200px;
+    font-size: 1em;
+    color: #fff;
+    padding: 8px 20px;
+    border: 0;
+    border-radius: 4px;
+    background-color: salmon;
+    cursor: pointer;
+    text-decoration: none;
+    margin: 20px auto;
 }
 
 .recipe ul {

@@ -10,6 +10,7 @@ import Recipe from './pages/recipe/Recipe';
 import Create from './pages/create/Create';
 import Navbar from './components/Navbar';
 import { useTheme } from './hooks/useTheme';
+import NotFound from './pages/NotFound/NotFound';
 
 const router = createBrowserRouter([
   {
@@ -31,6 +32,10 @@ const router = createBrowserRouter([
   {
     path: "/search",
     element: <div><Search/></div>,
+  },
+  {
+    path: "/*",
+    element: <div><NotFound /></div>,
   },
   
 ]);

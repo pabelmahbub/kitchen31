@@ -39,15 +39,27 @@
     display: block;
     background: salmon;
     font-size: 0.9em;
-    width: 100px;
     text-align: center;
     width: 120px;
     padding:8px;
     border-radius: 4px;
     margin: 20px auto 0;
 }
+.delete{
+   position: absolute;
+   width:20px;
+   height:20px;
+   top: 10px;
+   right: 10px;
+   cursor: pointer;
+   filter: invert(60%);
+}
+
+
+/*dark mode style */
+
 .recipe-list .card.dark {
-    background: #333;
+    background: #555;
 }
 .recipe-list .card.dark p,
 .recipe-list .card.dark h3,

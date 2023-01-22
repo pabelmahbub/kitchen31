@@ -1,11 +1,11 @@
 import "./Create.css";
 import { useRef, useState, useEffect } from "react";
 import React from 'react'
-import { useFetch } from "../../hooks/useFetch";
 import { useNavigate } from "react-router-dom";
 import Navbar from "../../components/Navbar";
 import ThemeSelector from "../../components/ThemeSelector";
 import { useTheme } from "../../hooks/useTheme";
+import { projectFirestore } from "../../firebase/config";
 
 function Create() {
     const [title, setTitle] = useState("")
@@ -18,12 +18,18 @@ function Create() {
 
     const navigate = useNavigate();
 
-    const {postData, error, data} = useFetch("http://localhost:3000/recipes", "POST") 
 
-    const handleSubmit =(e)=>{
+    const handleSubmit = async (e)=>{
         e.preventDefault()
-        postData({title, ingredients, method, cookingTime: cookingTime + " minutes"})
+        const docs = ({title, ingredients, method, cookingTime: cookingTime + " minutes"})
 
+        try{
+        await projectFirestore.collection('recipes').add(docs)
+        navigate('/')
+       }
+       catch(err){
+         console.log(err)
+       }
     }
 
     const handleAdd =(e)=>{
@@ -36,12 +42,6 @@ function Create() {
         ingredientInput.current.focus()
     }
 
-    useEffect(() => {
-        if(data){
-            navigate('/');
-        }
-    }, [data])
-    
   return (
     <>
       <Navbar />
